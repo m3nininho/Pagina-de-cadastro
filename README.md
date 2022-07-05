@@ -1,4 +1,4 @@
-# Página de Cadastro <img src="./img/finalizado.png" align="right" width="600"/>
+# Página de Cadastro <img src="./img/finalizado.jpg" align="right" width="600"/>
 
 Página de cadastro recriada com o intuito de treinar o HTML e CSS. O código foi desenvolvido pela Giovanna, do canal Girl Coding.
 <br>
